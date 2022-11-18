@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ekaaria80
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Evelyn
+- 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning ...data science 
 
 - 💞️ I’m looking to collaborate on ...
